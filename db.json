@@ -1,0 +1,61 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed network card in server 007",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2019-12-13T22:34:28.871Z"
+    },
+    {
+      "id": 3,
+      "message": "112222 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-12-13T22:34:36.973Z"
+    },
+    {
+      "id": 4,
+      "message": "Workstation 026 is up and running",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T19:57:35.544Z"
+    },
+    {
+      "message": "chage logs 005",
+      "attention": false,
+      "tech": "biavlja",
+      "date": "2019-12-13T21:24:05.374Z",
+      "id": 5
+    },
+    {
+      "message": "wjuiud",
+      "attention": true,
+      "tech": "biavlja",
+      "date": "2019-12-13T21:44:12.616Z",
+      "id": 6
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Sepehr",
+      "lastName": "Moradi",
+      "id": 4
+    },
+    {
+      "firstName": "Reza",
+      "lastName": "Zarabi",
+      "id": 5
+    }
+  ]
+}
